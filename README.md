@@ -7,4 +7,4 @@ RA6_CE_A_B – Gestión de sistemas y administración de recursos.
 
 RA5_C_D_E_F – Prácticas de servicios y aplicaciones.
 
-RA6_CE_C_G  
+RA6_CE_C_G - Modificacion y creacion de un .php + vinculacion a su base de datos mediante phpMyAdmin
